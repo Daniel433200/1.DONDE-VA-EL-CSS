@@ -1,0 +1,7 @@
+h2 { color: rgb(255, 0, 0); font-family: 'Courier New', Courier, monospace;}
+        p {
+            color: green;
+            font-weight: bolder;
+            font-size: 25px;
+        }
+        body { background-color: bisque;}
